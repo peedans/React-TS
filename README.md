@@ -1,1 +1,1 @@
-# โค้ดประกอบการสอน React-TypeScript
+# React-TypeScript
